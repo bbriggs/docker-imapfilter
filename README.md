@@ -10,4 +10,4 @@ Fires a one-time run of imapfilter. I intended this to be run on a cron with a n
 
 ### License
 
-Release under the MIT license.
+Released under the MIT license.
